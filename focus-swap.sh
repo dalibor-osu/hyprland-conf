@@ -1,4 +1,3 @@
-
 #!/bin/bash
 monitor_id=$(active-monitor)
 if [[ $monitor_id == 0 ]]; then
