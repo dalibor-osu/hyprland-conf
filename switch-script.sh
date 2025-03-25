@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 # Source: https://cascade.moe/en/posts/hyprland-with-multi-monitors/
 
 operation=$1
